@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>German Podcast</title>
+  <link>https://nathan-sivewright.github.io/german-podcast/</link>
+  <atom:link href="https://nathan-sivewright.github.io/german-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>Two-host conversational episodes for German listening practice (A1.2-A2 level), generated with Google Cloud neural voices.</description>
+  <language>de-de</language>
+  <itunes:author>German Tutor Project</itunes:author>
+  <itunes:category text="Education"/>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://nathan-sivewright.github.io/german-podcast/cover.jpg"/>
+  <image>
+    <url>https://nathan-sivewright.github.io/german-podcast/cover.jpg</url>
+    <title>German Podcast</title>
+    <link>https://nathan-sivewright.github.io/german-podcast/</link>
+  </image>
+  <lastBuildDate>Mon, 03 Aug 2026 19:34:28 +0200</lastBuildDate>
+
+  <item>
+    <title>Die Geschichte der Chausseestraße</title>
+    <description>Mia und Tom sprechen über die Chausseestraße in Berlin: den lustigen Namen, die Industriezeit ("Feuerland"), Bertolt Brecht und die Berliner Mauer.</description>
+    <pubDate>Mon, 03 Aug 2026 19:34:28 +0200</pubDate>
+    <guid isPermaLink="true">https://nathan-sivewright.github.io/german-podcast/episodes/chausseestrasse.mp3</guid>
+    <enclosure url="https://nathan-sivewright.github.io/german-podcast/episodes/chausseestrasse.mp3" length="1712949" type="audio/mpeg"/>
+    <itunes:duration>00:04:16</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
+</channel>
+</rss>
