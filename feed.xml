@@ -15,7 +15,18 @@
     <title>German Podcast</title>
     <link>https://nathan-sivewright.github.io/german-podcast/</link>
   </image>
-  <lastBuildDate>Mon, 03 Aug 2026 19:34:28 +0200</lastBuildDate>
+  <lastBuildDate>Tue, 04 Aug 2026 12:56:55 +0200</lastBuildDate>
+
+  <item>
+    <title>Die Weimarer Republik</title>
+    <description>Mia und Tom sprechen über Deutschlands erste Demokratie: die Gründung in Weimar, das Frauenwahlrecht, die Hyperinflation von 1923, die Goldenen Zwanziger und das Bauhaus, die Weltwirtschaftskrise und das Ende der Republik 1933.</description>
+    <pubDate>Tue, 04 Aug 2026 12:56:55 +0200</pubDate>
+    <guid isPermaLink="true">https://nathan-sivewright.github.io/german-podcast/episodes/weimarer-republik.mp3</guid>
+    <enclosure url="https://nathan-sivewright.github.io/german-podcast/episodes/weimarer-republik.mp3" length="2189229" type="audio/mpeg"/>
+    <itunes:duration>00:04:33</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:transcript url="https://nathan-sivewright.github.io/german-podcast/episodes/weimarer-republik.vtt" type="text/vtt" language="de"/>
+  </item>
 
   <item>
     <title>Die Geschichte der Chausseestraße</title>
