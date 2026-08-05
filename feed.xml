@@ -15,7 +15,18 @@
     <title>German Podcast</title>
     <link>https://nathan-sivewright.github.io/german-podcast/</link>
   </image>
-  <lastBuildDate>Tue, 04 Aug 2026 12:56:55 +0200</lastBuildDate>
+  <lastBuildDate>Wed, 05 Aug 2026 13:49:32 +0200</lastBuildDate>
+
+  <item>
+    <title>Das Wirtschaftswunder</title>
+    <description>Mia und Tom sprechen über das deutsche Wirtschaftswunder: die "Stunde Null" nach 1945, die Währungsreform von 1948, Ludwig Erhard und die soziale Marktwirtschaft, den Marshallplan, die Gastarbeiter, den VW Käfer und Deutschlands Aufstieg zur Exportnation.</description>
+    <pubDate>Wed, 05 Aug 2026 13:49:32 +0200</pubDate>
+    <guid isPermaLink="true">https://nathan-sivewright.github.io/german-podcast/episodes/wirtschaftswunder.mp3</guid>
+    <enclosure url="https://nathan-sivewright.github.io/german-podcast/episodes/wirtschaftswunder.mp3" length="1929069" type="audio/mpeg"/>
+    <itunes:duration>00:04:01</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:transcript url="https://nathan-sivewright.github.io/german-podcast/episodes/wirtschaftswunder.vtt" type="text/vtt" language="de"/>
+  </item>
 
   <item>
     <title>Die Weimarer Republik</title>
