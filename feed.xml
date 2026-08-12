@@ -15,7 +15,95 @@
     <title>German Podcast</title>
     <link>https://nathan-sivewright.github.io/german-podcast/</link>
   </image>
-  <lastBuildDate>Wed, 05 Aug 2026 13:49:32 +0200</lastBuildDate>
+  <lastBuildDate>Wed, 12 Aug 2026 18:35:00 +0200</lastBuildDate>
+
+  <item>
+    <title>Charlottenburg</title>
+    <description>Mia und Tom sprechen über Charlottenburg: das barocke Schloss Charlottenburg, die Zeit als eigenständige, reiche Stadt vor 1920, den Kurfürstendamm als Herz von West-Berlin und die Kaiser-Wilhelm-Gedächtniskirche.</description>
+    <pubDate>Wed, 12 Aug 2026 18:35:00 +0200</pubDate>
+    <guid isPermaLink="true">https://nathan-sivewright.github.io/german-podcast/episodes/charlottenburg.mp3</guid>
+    <enclosure url="https://nathan-sivewright.github.io/german-podcast/episodes/charlottenburg.mp3" length="1127853" type="audio/mpeg"/>
+    <itunes:duration>00:02:20</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:transcript url="https://nathan-sivewright.github.io/german-podcast/episodes/charlottenburg.vtt" type="text/vtt" language="de"/>
+  </item>
+
+  <item>
+    <title>Prenzlauer Berg</title>
+    <description>Mia und Tom sprechen über Prenzlauer Berg: das Leben im Schatten der Mauer zu DDR-Zeiten, den Ort als Zentrum der friedlichen Revolution, die Gentrifizierung nach 1990 und den Kollwitzplatz.</description>
+    <pubDate>Wed, 12 Aug 2026 18:30:00 +0200</pubDate>
+    <guid isPermaLink="true">https://nathan-sivewright.github.io/german-podcast/episodes/prenzlauer-berg.mp3</guid>
+    <enclosure url="https://nathan-sivewright.github.io/german-podcast/episodes/prenzlauer-berg.mp3" length="1096941" type="audio/mpeg"/>
+    <itunes:duration>00:02:17</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:transcript url="https://nathan-sivewright.github.io/german-podcast/episodes/prenzlauer-berg.vtt" type="text/vtt" language="de"/>
+  </item>
+
+  <item>
+    <title>Kreuzberg</title>
+    <description>Mia und Tom sprechen über Kreuzberg: den Namen des Stadtteils, das Leben direkt an der Berliner Mauer in "SO 36", die multikulturelle Geschichte und den bekannten Spruch "36 brennt, 61 pennt".</description>
+    <pubDate>Wed, 12 Aug 2026 18:25:00 +0200</pubDate>
+    <guid isPermaLink="true">https://nathan-sivewright.github.io/german-podcast/episodes/kreuzberg.mp3</guid>
+    <enclosure url="https://nathan-sivewright.github.io/german-podcast/episodes/kreuzberg.mp3" length="1261485" type="audio/mpeg"/>
+    <itunes:duration>00:02:37</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:transcript url="https://nathan-sivewright.github.io/german-podcast/episodes/kreuzberg.vtt" type="text/vtt" language="de"/>
+  </item>
+
+  <item>
+    <title>Das Sommermärchen 2006</title>
+    <description>Mia und Tom sprechen über die Fußball-Weltmeisterschaft 2006 in Deutschland: die besondere Stimmung, Public Viewing, den dritten Platz der deutschen Mannschaft und den Weltmeistertitel für Italien.</description>
+    <pubDate>Wed, 12 Aug 2026 18:20:00 +0200</pubDate>
+    <guid isPermaLink="true">https://nathan-sivewright.github.io/german-podcast/episodes/sommermaerchen-2006.mp3</guid>
+    <enclosure url="https://nathan-sivewright.github.io/german-podcast/episodes/sommermaerchen-2006.mp3" length="1294701" type="audio/mpeg"/>
+    <itunes:duration>00:02:41</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:transcript url="https://nathan-sivewright.github.io/german-podcast/episodes/sommermaerchen-2006.vtt" type="text/vtt" language="de"/>
+  </item>
+
+  <item>
+    <title>Franz Beckenbauer</title>
+    <description>Mia und Tom sprechen über "den Kaiser": Franz Beckenbauers Karriere beim FC Bayern München, seine neue Spielweise als Libero, die Titel als Spieler und als Trainer, und sein Erbe im deutschen Fußball.</description>
+    <pubDate>Wed, 12 Aug 2026 18:15:00 +0200</pubDate>
+    <guid isPermaLink="true">https://nathan-sivewright.github.io/german-podcast/episodes/beckenbauer.mp3</guid>
+    <enclosure url="https://nathan-sivewright.github.io/german-podcast/episodes/beckenbauer.mp3" length="1214061" type="audio/mpeg"/>
+    <itunes:duration>00:02:31</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:transcript url="https://nathan-sivewright.github.io/german-podcast/episodes/beckenbauer.vtt" type="text/vtt" language="de"/>
+  </item>
+
+  <item>
+    <title>Das Wunder von Bern</title>
+    <description>Mia und Tom sprechen über das WM-Finale 1954: den favorisierten Gegner Ungarn, den Rückstand von 0:2, das entscheidende Tor von Helmut Rahn und den berühmten Radio-Kommentar "Tor! Tor! Tor! Tor!".</description>
+    <pubDate>Wed, 12 Aug 2026 18:10:00 +0200</pubDate>
+    <guid isPermaLink="true">https://nathan-sivewright.github.io/german-podcast/episodes/wunder-von-bern.mp3</guid>
+    <enclosure url="https://nathan-sivewright.github.io/german-podcast/episodes/wunder-von-bern.mp3" length="1218861" type="audio/mpeg"/>
+    <itunes:duration>00:02:32</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:transcript url="https://nathan-sivewright.github.io/german-podcast/episodes/wunder-von-bern.vtt" type="text/vtt" language="de"/>
+  </item>
+
+  <item>
+    <title>Der Mauerfall</title>
+    <description>Mia und Tom sprechen über den 9. November 1989: den Bau der Mauer 1961, Günter Schabowskis berühmten Versprecher "sofort, unverzüglich", den Ansturm auf die Grenzübergänge und die Nacht, in der die Mauer fiel.</description>
+    <pubDate>Wed, 12 Aug 2026 18:05:00 +0200</pubDate>
+    <guid isPermaLink="true">https://nathan-sivewright.github.io/german-podcast/episodes/mauerfall.mp3</guid>
+    <enclosure url="https://nathan-sivewright.github.io/german-podcast/episodes/mauerfall.mp3" length="1305837" type="audio/mpeg"/>
+    <itunes:duration>00:02:43</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:transcript url="https://nathan-sivewright.github.io/german-podcast/episodes/mauerfall.vtt" type="text/vtt" language="de"/>
+  </item>
+
+  <item>
+    <title>Die Berliner Luftbrücke</title>
+    <description>Mia und Tom sprechen über die Berliner Luftbrücke 1948/49: die sowjetische Blockade, über 270.000 Versorgungsflüge, die "Rosinenbomber" und den amerikanischen Piloten Gail Halvorsen, "Onkel Wackelflügel".</description>
+    <pubDate>Wed, 12 Aug 2026 18:00:00 +0200</pubDate>
+    <guid isPermaLink="true">https://nathan-sivewright.github.io/german-podcast/episodes/berliner-luftbruecke.mp3</guid>
+    <enclosure url="https://nathan-sivewright.github.io/german-podcast/episodes/berliner-luftbruecke.mp3" length="1442541" type="audio/mpeg"/>
+    <itunes:duration>00:03:00</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:transcript url="https://nathan-sivewright.github.io/german-podcast/episodes/berliner-luftbruecke.vtt" type="text/vtt" language="de"/>
+  </item>
 
   <item>
     <title>Das Wirtschaftswunder</title>
