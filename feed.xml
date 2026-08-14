@@ -15,7 +15,62 @@
     <title>German Podcast</title>
     <link>https://nathan-sivewright.github.io/german-podcast/</link>
   </image>
-  <lastBuildDate>Wed, 12 Aug 2026 18:35:00 +0200</lastBuildDate>
+  <lastBuildDate>Fri, 14 Aug 2026 16:00:00 +0200</lastBuildDate>
+
+  <item>
+    <title>Albert Einstein</title>
+    <description>Mia und Tom sprechen über Albert Einstein: seine Kindheit in Ulm und München, die Jahre im Patentamt in Bern, sein "Wunderjahr" 1905, den Nobelpreis 1921 für den photoelektrischen Effekt, seine Emigration in die USA 1933 und warum seine Formeln bis heute für GPS-Satelliten wichtig sind.</description>
+    <pubDate>Fri, 14 Aug 2026 16:00:00 +0200</pubDate>
+    <guid isPermaLink="true">https://nathan-sivewright.github.io/german-podcast/episodes/albert-einstein.mp3</guid>
+    <enclosure url="https://nathan-sivewright.github.io/german-podcast/episodes/albert-einstein.mp3" length="3384237" type="audio/mpeg"/>
+    <itunes:duration>00:07:02</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:transcript url="https://nathan-sivewright.github.io/german-podcast/episodes/albert-einstein.vtt" type="text/vtt" language="de"/>
+  </item>
+
+  <item>
+    <title>Ludwig van Beethoven</title>
+    <description>Mia und Tom sprechen über Ludwig van Beethoven: seine musikalische Kindheit in Bonn, den Umzug nach Wien, seine fortschreitende Taubheit, die bewegende Uraufführung der Neunten Symphonie 1824, die Eroica und Napoleon, und das Rätsel um die "unsterbliche Geliebte".</description>
+    <pubDate>Fri, 14 Aug 2026 15:55:00 +0200</pubDate>
+    <guid isPermaLink="true">https://nathan-sivewright.github.io/german-podcast/episodes/ludwig-van-beethoven.mp3</guid>
+    <enclosure url="https://nathan-sivewright.github.io/german-podcast/episodes/ludwig-van-beethoven.mp3" length="3762669" type="audio/mpeg"/>
+    <itunes:duration>00:07:50</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:transcript url="https://nathan-sivewright.github.io/german-podcast/episodes/ludwig-van-beethoven.vtt" type="text/vtt" language="de"/>
+  </item>
+
+  <item>
+    <title>Das Oktoberfest</title>
+    <description>Mia und Tom sprechen über die Geschichte des Oktoberfests: die königliche Hochzeit von 1810, die Theresienwiese, den Wandel von einem Pferderennen zu einem Volksfest, das "O'zapft is", Tracht und Wiesnbier, Oktoberfeste rund um die Welt und warum das Fest schon mehrmals abgesagt werden musste.</description>
+    <pubDate>Fri, 14 Aug 2026 15:50:00 +0200</pubDate>
+    <guid isPermaLink="true">https://nathan-sivewright.github.io/german-podcast/episodes/das-oktoberfest.mp3</guid>
+    <enclosure url="https://nathan-sivewright.github.io/german-podcast/episodes/das-oktoberfest.mp3" length="3613677" type="audio/mpeg"/>
+    <itunes:duration>00:07:31</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:transcript url="https://nathan-sivewright.github.io/german-podcast/episodes/das-oktoberfest.vtt" type="text/vtt" language="de"/>
+  </item>
+
+  <item>
+    <title>Der Kölner Dom</title>
+    <description>Mia und Tom sprechen über den Kölner Dom: die 632 Jahre Bauzeit mit einer fast 400-jährigen Pause, den Schrein der Heiligen Drei Könige, das moderne Fenster von Gerhard Richter, die Glocke "Dicke Pitter", das Überleben im Zweiten Weltkrieg und den UNESCO-Welterbe-Status seit 1996.</description>
+    <pubDate>Fri, 14 Aug 2026 15:45:00 +0200</pubDate>
+    <guid isPermaLink="true">https://nathan-sivewright.github.io/german-podcast/episodes/koelner-dom.mp3</guid>
+    <enclosure url="https://nathan-sivewright.github.io/german-podcast/episodes/koelner-dom.mp3" length="3566445" type="audio/mpeg"/>
+    <itunes:duration>00:07:25</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:transcript url="https://nathan-sivewright.github.io/german-podcast/episodes/koelner-dom.vtt" type="text/vtt" language="de"/>
+  </item>
+
+  <item>
+    <title>Schloss Neuschwanstein</title>
+    <description>Mia und Tom sprechen über Schloss Neuschwanstein: König Ludwig II. und seine Inspiration durch die Wartburg, die moderne Technik im "Märchenschloss", seinen mysteriösen Tod am Starnberger See 1886, die anderen Königsschlösser und den UNESCO-Welterbe-Status seit 2025.</description>
+    <pubDate>Fri, 14 Aug 2026 15:40:00 +0200</pubDate>
+    <guid isPermaLink="true">https://nathan-sivewright.github.io/german-podcast/episodes/schloss-neuschwanstein.mp3</guid>
+    <enclosure url="https://nathan-sivewright.github.io/german-podcast/episodes/schloss-neuschwanstein.mp3" length="3577389" type="audio/mpeg"/>
+    <itunes:duration>00:07:27</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:transcript url="https://nathan-sivewright.github.io/german-podcast/episodes/schloss-neuschwanstein.vtt" type="text/vtt" language="de"/>
+  </item>
 
   <item>
     <title>Charlottenburg</title>
