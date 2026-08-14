@@ -15,7 +15,62 @@
     <title>German Podcast</title>
     <link>https://nathan-sivewright.github.io/german-podcast/</link>
   </image>
-  <lastBuildDate>Fri, 14 Aug 2026 17:00:00 +0200</lastBuildDate>
+  <lastBuildDate>Fri, 14 Aug 2026 18:00:00 +0200</lastBuildDate>
+
+  <item>
+    <title>Der Schwarzwald</title>
+    <description>Mia und Tom sprechen über den Schwarzwald: die dichten Wälder, die Erfindung der Kuckucksuhr 1738 durch Franz Ketterer, Schwarzwälder Schinken und Kirschtorte, den Kurort Baden-Baden, den Nationalpark und die Bollenhut-Tracht.</description>
+    <pubDate>Fri, 14 Aug 2026 18:00:00 +0200</pubDate>
+    <guid isPermaLink="true">https://nathan-sivewright.github.io/german-podcast/episodes/schwarzwald.mp3</guid>
+    <enclosure url="https://nathan-sivewright.github.io/german-podcast/episodes/schwarzwald.mp3" length="3360045" type="audio/mpeg"/>
+    <itunes:duration>00:06:59</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:transcript url="https://nathan-sivewright.github.io/german-podcast/episodes/schwarzwald.vtt" type="text/vtt" language="de"/>
+  </item>
+
+  <item>
+    <title>Die Speicherstadt Hamburg</title>
+    <description>Mia und Tom sprechen über die Speicherstadt Hamburg: den Bau ab 1883 auf Eichenpfählen, den größten Lagerhauskomplex der Welt, die Fleete und neugotische Backsteinarchitektur, das Miniatur Wunderland und den UNESCO-Welterbe-Status seit 2015.</description>
+    <pubDate>Fri, 14 Aug 2026 17:55:00 +0200</pubDate>
+    <guid isPermaLink="true">https://nathan-sivewright.github.io/german-podcast/episodes/speicherstadt-hamburg.mp3</guid>
+    <enclosure url="https://nathan-sivewright.github.io/german-podcast/episodes/speicherstadt-hamburg.mp3" length="3387117" type="audio/mpeg"/>
+    <itunes:duration>00:07:03</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:transcript url="https://nathan-sivewright.github.io/german-podcast/episodes/speicherstadt-hamburg.vtt" type="text/vtt" language="de"/>
+  </item>
+
+  <item>
+    <title>Die Currywurst</title>
+    <description>Mia und Tom sprechen über die Currywurst: die Erfindung durch Herta Heuwer 1949 in Berlin, die Zutaten von britischen Soldaten, die Markenanmeldung ihrer Sauce "Chillup", den Streit zwischen Berlin und Hamburg um den Ursprung, und warum jährlich 800 Millionen Currywürste gegessen werden.</description>
+    <pubDate>Fri, 14 Aug 2026 17:50:00 +0200</pubDate>
+    <guid isPermaLink="true">https://nathan-sivewright.github.io/german-podcast/episodes/currywurst.mp3</guid>
+    <enclosure url="https://nathan-sivewright.github.io/german-podcast/episodes/currywurst.mp3" length="3400749" type="audio/mpeg"/>
+    <itunes:duration>00:07:05</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:transcript url="https://nathan-sivewright.github.io/german-podcast/episodes/currywurst.vtt" type="text/vtt" language="de"/>
+  </item>
+
+  <item>
+    <title>Bertha Benz</title>
+    <description>Mia und Tom sprechen über Bertha Benz: ihre heimliche erste Langstreckenfahrt 1888 von Mannheim nach Pforzheim mit ihren Söhnen, die improvisierten Reparaturen unterwegs, den ersten "Tankstopp" der Geschichte in einer Apotheke, und ihre Rolle als Pionierin der Automobilgeschichte.</description>
+    <pubDate>Fri, 14 Aug 2026 17:45:00 +0200</pubDate>
+    <guid isPermaLink="true">https://nathan-sivewright.github.io/german-podcast/episodes/bertha-benz.mp3</guid>
+    <enclosure url="https://nathan-sivewright.github.io/german-podcast/episodes/bertha-benz.mp3" length="3376173" type="audio/mpeg"/>
+    <itunes:duration>00:07:01</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:transcript url="https://nathan-sivewright.github.io/german-podcast/episodes/bertha-benz.vtt" type="text/vtt" language="de"/>
+  </item>
+
+  <item>
+    <title>Die Hanse</title>
+    <description>Mia und Tom sprechen über die Hanse: die Ursprünge in Lübeck im 12. Jahrhundert, das Handelsnetzwerk von Russland bis England, die Kontore und Hansekoggen, den Piraten Klaus Störtebeker, den Niedergang und die Auflösung 1862, und warum Städte wie Hamburg noch heute "Hansestadt" heißen.</description>
+    <pubDate>Fri, 14 Aug 2026 17:40:00 +0200</pubDate>
+    <guid isPermaLink="true">https://nathan-sivewright.github.io/german-podcast/episodes/hanse.mp3</guid>
+    <enclosure url="https://nathan-sivewright.github.io/german-podcast/episodes/hanse.mp3" length="3374637" type="audio/mpeg"/>
+    <itunes:duration>00:07:01</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:transcript url="https://nathan-sivewright.github.io/german-podcast/episodes/hanse.vtt" type="text/vtt" language="de"/>
+  </item>
 
   <item>
     <title>Johannes Gutenberg</title>
