@@ -15,7 +15,62 @@
     <title>German Podcast</title>
     <link>https://nathan-sivewright.github.io/german-podcast/</link>
   </image>
-  <lastBuildDate>Fri, 14 Aug 2026 16:00:00 +0200</lastBuildDate>
+  <lastBuildDate>Fri, 14 Aug 2026 17:00:00 +0200</lastBuildDate>
+
+  <item>
+    <title>Johannes Gutenberg</title>
+    <description>Mia und Tom sprechen über Johannes Gutenberg: seine Erfindung des Buchdrucks mit beweglichen Lettern um 1440 in Mainz, die Finanzierung durch Johann Fust, die berühmte 42-zeilige Gutenberg-Bibel, die rasante Verbreitung der Druckkunst in Europa und die Verbindung zur Reformation.</description>
+    <pubDate>Fri, 14 Aug 2026 17:00:00 +0200</pubDate>
+    <guid isPermaLink="true">https://nathan-sivewright.github.io/german-podcast/episodes/johannes-gutenberg.mp3</guid>
+    <enclosure url="https://nathan-sivewright.github.io/german-podcast/episodes/johannes-gutenberg.mp3" length="3415149" type="audio/mpeg"/>
+    <itunes:duration>00:07:06</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:transcript url="https://nathan-sivewright.github.io/german-podcast/episodes/johannes-gutenberg.vtt" type="text/vtt" language="de"/>
+  </item>
+
+  <item>
+    <title>Die Brüder Grimm</title>
+    <description>Mia und Tom sprechen über die Brüder Grimm: ihre schwere Kindheit in Hanau, die Märchensammlung in Kassel, die düsteren Originalversionen bekannter Märchen, die "Göttinger Sieben", das gigantische Deutsche Wörterbuch und ihr bleibendes Erbe als Sprachwissenschaftler und Märchenerzähler.</description>
+    <pubDate>Fri, 14 Aug 2026 16:55:00 +0200</pubDate>
+    <guid isPermaLink="true">https://nathan-sivewright.github.io/german-podcast/episodes/brueder-grimm.mp3</guid>
+    <enclosure url="https://nathan-sivewright.github.io/german-podcast/episodes/brueder-grimm.mp3" length="3350829" type="audio/mpeg"/>
+    <itunes:duration>00:06:58</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:transcript url="https://nathan-sivewright.github.io/german-podcast/episodes/brueder-grimm.vtt" type="text/vtt" language="de"/>
+  </item>
+
+  <item>
+    <title>Das Brandenburger Tor</title>
+    <description>Mia und Tom sprechen über das Brandenburger Tor: den Bau 1788-1791, die Quadriga und ihre Reise nach Paris und zurück, die Zeit im Sperrgebiet der Berliner Mauer, die historische Öffnung 1989 und die Rolle des Tors als Symbol der deutschen Einheit.</description>
+    <pubDate>Fri, 14 Aug 2026 16:50:00 +0200</pubDate>
+    <guid isPermaLink="true">https://nathan-sivewright.github.io/german-podcast/episodes/brandenburger-tor.mp3</guid>
+    <enclosure url="https://nathan-sivewright.github.io/german-podcast/episodes/brandenburger-tor.mp3" length="3341037" type="audio/mpeg"/>
+    <itunes:duration>00:06:57</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:transcript url="https://nathan-sivewright.github.io/german-podcast/episodes/brandenburger-tor.vtt" type="text/vtt" language="de"/>
+  </item>
+
+  <item>
+    <title>Sophie Scholl</title>
+    <description>Mia und Tom sprechen über Sophie Scholl und die Weiße Rose: den studentischen Widerstand in München, die riskanten Flugblattaktionen, die Verhaftung 1943 nach dem Verrat durch einen Hausmeister, den kurzen Prozess, die Hinrichtung mit nur 21 Jahren und ihr bleibendes Vermächtnis als Symbol der Zivilcourage.</description>
+    <pubDate>Fri, 14 Aug 2026 16:45:00 +0200</pubDate>
+    <guid isPermaLink="true">https://nathan-sivewright.github.io/german-podcast/episodes/sophie-scholl.mp3</guid>
+    <enclosure url="https://nathan-sivewright.github.io/german-podcast/episodes/sophie-scholl.mp3" length="3297069" type="audio/mpeg"/>
+    <itunes:duration>00:06:52</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:transcript url="https://nathan-sivewright.github.io/german-podcast/episodes/sophie-scholl.vtt" type="text/vtt" language="de"/>
+  </item>
+
+  <item>
+    <title>Martin Luther</title>
+    <description>Mia und Tom sprechen über Martin Luther: das Gewittererlebnis, das ihn zum Mönch machte, die 95 Thesen von 1517, den Auftritt beim Reichstag zu Worms, das Versteck auf der Wartburg und seine Bibelübersetzung, sowie sein bleibendes und auch umstrittenes Erbe.</description>
+    <pubDate>Fri, 14 Aug 2026 16:40:00 +0200</pubDate>
+    <guid isPermaLink="true">https://nathan-sivewright.github.io/german-podcast/episodes/martin-luther.mp3</guid>
+    <enclosure url="https://nathan-sivewright.github.io/german-podcast/episodes/martin-luther.mp3" length="3320877" type="audio/mpeg"/>
+    <itunes:duration>00:06:55</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:transcript url="https://nathan-sivewright.github.io/german-podcast/episodes/martin-luther.vtt" type="text/vtt" language="de"/>
+  </item>
 
   <item>
     <title>Albert Einstein</title>
